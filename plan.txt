@@ -1,0 +1,8 @@
+1.利用flask快速实现neo4j的node-relationship-graph
+
+2.熟练实现1、2个bootstrap框架
+
+3.跟neo4j集成
+
+4.总结git部署的方式
+	结合gitlab虚拟机？还是在linux下做吧
